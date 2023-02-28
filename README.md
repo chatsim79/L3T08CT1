@@ -32,7 +32,7 @@ the folder in VSC, or open terminal within the folder). I reccomend
 command line opened in the appropriate folder as it demonstrates the 
 app running indepedent of VSC.
 
-#### "git clone https://github.com/chatsim79/L3T8CS1-Containerised"
+#### "git clone https://github.com/chatsim79/L3T08CT1.git"
 
 once the repository is cloned, cd into the Compulsory Task 1 folder:
 
