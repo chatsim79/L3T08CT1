@@ -36,7 +36,7 @@ app running indepedent of VSC.
 
 once the repository is cloned, cd into the Compulsory Task 1 folder:
 
-"cd L3T8CS1-Containerised"
+"cd L3T08CT1"
 
 "cd Compulsory Task 1"
 
