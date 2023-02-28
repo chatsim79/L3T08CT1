@@ -5,9 +5,9 @@
 This repository contains the files for Level 3, Task 8, Compulsory 
 Task 1 with instructions for running in a Docker Container. The 
 purpose of this task is to highlight Python coding ability and all
-methods and techniques that implies including defensive programming,
-exception handling, readinf from and writing to external data sources, 
-and function definition.
+methods and techniques that implies including object oriented programming, 
+defensive programming, exception handling, reading from and writing to 
+external data sources, and function definition.
 
 It also demonstrates familiarity with containerisation such as Docker. 
 I could just drop the code in this repo and leave the visitor to 
