@@ -5,7 +5,7 @@
 This repository contains the files for Level 3, Task 8, Compulsory 
 Task 1 with instructions for running in a Docker Container. The 
 purpose of this task is to highlight Python coding ability and all
-methods and techniques that implies including object oriented programming, 
+methods and techniques this, implies including object oriented programming, 
 defensive programming, exception handling, reading from and writing to 
 external data sources, and function definition.
 
