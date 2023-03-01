@@ -52,11 +52,11 @@ to use the app, run the following command.
 
 "docker run -it [app name]"
 
-I recommend one of the first selections when using the app should be
-"view current stock". This will produce a table of stock model names
-and SKU codes, these can they be used in conjunction with other 
-elements of the menu which will request a stock name or SKU code to 
-perform actions.
+This is a Stock Management Program. I recommend one of the first 
+selections when using the app should be "view current stock". 
+This will produce a table of stock model names and SKU codes, 
+these can they be used in conjunction with other elements of the 
+menu which will request a stock name or SKU code to perform actions.
 
 ## 3 - Credits: 
 
