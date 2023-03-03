@@ -454,7 +454,7 @@ g - Exit?
             read_shoes_data()
             re_stock(shoe_list)
             read_shoes_data()
-            view_all
+            view_all()
         
         elif main_menu == "d":
             read_shoes_data()
