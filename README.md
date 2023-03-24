@@ -13,7 +13,7 @@ It also demonstrates familiarity with containerisation such as Docker.
 I could just drop the code in this repo and leave the visitor to 
 clone it into their system and run manually in VSC, however this 
 would require selecting an appropriate python interpreter whereas 
-if run via Docker Desktop, all this is taken care of via the Docker 
+if run via Docker Desktop, all dependancies are taken care of via the Docker 
 File.
 
 ## Table of Contents:
